@@ -1,4 +1,4 @@
 # NEWproject-demo
 This is my first GIT repository.
 <br>
-IGDTUW
+Indira Gandhi Delhi Techinical University for Women
